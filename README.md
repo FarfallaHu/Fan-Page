@@ -1,5 +1,8 @@
 # Fan-Page
 
+Please download Fan-Page.APK to run on andriod.
+
+
 
 Project Report
 
