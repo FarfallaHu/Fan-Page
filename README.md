@@ -4,7 +4,9 @@ Please download Fan-Page.APK to run on andriod.
 
 Here is my google account: farfallahudie@gmail.com Password: Thankyou12345!
 
-Admin login need to use google and firebase is link with this accound also.
+Admin login need to use google and firebase is link with this accound also. 
+
+Google login my need Authentication. Please check the video for all the detail
 
 Project Report
 
