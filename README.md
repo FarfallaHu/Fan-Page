@@ -10,8 +10,8 @@ Admin login need to use google and firebase is link with this accound also.
 
 Project Report
 
-https://docs.google.com/document/d/1WF6WGgLaGsKXJ8HwPOQY1-w7Ewea-OBDS33v5zRyJQ4/edit?usp=sharing
+https://docs.google.com/document/d/1hmV4zi8shWVVF60PcxUyoUb6_cD-kBw1FkyrttYNouA/edit?usp=sharing
 
 Video
 
-https://youtu.be/5c9fgC54E6g
+
